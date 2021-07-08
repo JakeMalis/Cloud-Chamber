@@ -19,8 +19,16 @@
 - https://en.wikipedia.org/wiki/Cloud_chamber
 - https://www.youtube.com/watch?app=desktop&v=mYcLuWHzfmE
 
-## Traning Data
-- https://www.youtube.com/channel/UCEhIPRgEuKjVW_b6YRpigXw/videos?app=desktop
-
 ## Project Motivation
 - https://spaceweather.com/archive.php?view=1&day=05&month=03&year=2018
+
+## AI
+
+### Training Tools
+- https://labelbox.com/product/platform/annotate
+
+### Object Detection API
+- https://github.com/tensorflow/models/tree/master/research/object_detection
+
+### Traning Data
+- https://www.youtube.com/channel/UCEhIPRgEuKjVW_b6YRpigXw/videos?app=desktop
