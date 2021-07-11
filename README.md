@@ -12,8 +12,6 @@
 
 ### Tutorials
 - https://www.youtube.com/watch?app=desktop&v=pewTySxfTQk
-- https://indico.cern.ch/event/508576/contributions/2322575/attachments/1360032/2057853/SCoolLAB_CloudChamber_DIYManual_2016_v2.pdf
-  - See page 9 for training data information
 
 ### Basics
 - https://en.wikipedia.org/wiki/Cloud_chamber
@@ -32,3 +30,9 @@
 
 ### Traning Data
 - https://www.youtube.com/channel/UCEhIPRgEuKjVW_b6YRpigXw/videos?app=desktop
+
+### Classes and Examples
+- https://www.birmingham.ac.uk/Documents/college-eps/physics/outreach-documents/educators-and-general-public-documents/FINAL-COMBINED-MANUAL.pdf
+  - Page 5 has classes and examples
+- https://indico.cern.ch/event/508576/contributions/2322575/attachments/1360032/2057853/SCoolLAB_CloudChamber_DIYManual_2016_v2.pdf
+  - See page 9 for training data information
