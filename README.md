@@ -1,14 +1,14 @@
 # CloudChamber
 
-## Cloud Chamber Kits
-- https://m.carolina.com/nuclear-chemistry/observing-ionizing-radiation-using-a-cloud-chamber-kit/840374.pr
-- https://www.arborsci.com/products/cloud-chamber
-
 ## Information
 - https://scoollab.web.cern.ch/bubble-chamber-pictures-classroom
 - https://www.classe.cornell.edu/rsrc/Home/Outreach/LessonPlans/cloudchamber.pdf
 - https://www.youtube.com/watch?app=desktop&v=_HI77vKyVDE
 - https://www.youtube.com/watch?app=desktop&v=LosCtIh5Flc
+
+### Kits
+- https://m.carolina.com/nuclear-chemistry/observing-ionizing-radiation-using-a-cloud-chamber-kit/840374.pr
+- https://www.arborsci.com/products/cloud-chamber
 
 ### Tutorials
 - https://www.youtube.com/watch?app=desktop&v=pewTySxfTQk
