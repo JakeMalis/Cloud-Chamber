@@ -36,10 +36,8 @@
 ### Colab Notebooks
 - https://colab.research.google.com/drive/1O1CcKuIgQXXwisR5Tc2rTsGTZ2XWTqtG?usp=sharing
   - Turns videos for traininig data into images
-- https://colab.research.google.com/drive/1sbhOJrKyyo9Ji-zGKwOgpNM3UDkz7wZq
-  - Training script for dataset
 - https://colab.research.google.com/drive/1cRv29xtchTy5302gwa7SJVO9HjNMm6w1
-  - A modified version of the last notebook that uses TPUs for learning (stores data in Google Cloud Storage in order to allow TPUs to run without bottlenecks)
+  - Uses TPUs for learning (stores data in Google Cloud Storage in order to allow TPUs to run without bottlenecks)
 
 ### Classes and Examples
 - https://www.birmingham.ac.uk/Documents/college-eps/physics/outreach-documents/educators-and-general-public-documents/FINAL-COMBINED-MANUAL.pdf
