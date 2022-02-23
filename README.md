@@ -14,12 +14,7 @@ Galactic cosmic rays are a mixture of high-energy photons and subatomic particle
 - https://www.arborsci.com/products/cloud-chamber
 
 ## AI
-```
-!python /content/models/research/object_detection/model_main_tf2.py \
-    --pipeline_config_path={pipeline_config_path} \
-    --model_dir={model_dir} \
-    --alsologtostderr 
-```
+
 ### Traning Data
 - https://www.youtube.com/channel/UCEhIPRgEuKjVW_b6YRpigXw/videos?app=desktop
 
