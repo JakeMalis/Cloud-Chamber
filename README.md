@@ -3,9 +3,14 @@
 # Cloud Chamber ☁️
 ## Abstract
 
-Galactic cosmic rays are a mixture of high-energy photons and subatomic particles formed by supernova explosions and other cosmic events. As cosmic rays enter Earth’s atmosphere, they interact mainly with oxygen and nitrogen molecules. This phenomenon, known as an air shower, results in secondary radiation including x-rays, protons (p), alpha particles (α), pions (π), muons (μ−), electrons (e−), neutrinos (ν), and neutrons (n). Currently, accurately tracking and quantifying cosmic rays is difficult; direct detection methods--including particle detectors housed in the ISS, satellites, or high-altitude balloons-- require a considerable amount of time to develop the readings. Indirect detection methods, specifically extensive air shower arrays, require large areas of land and highly specialized, expensive equipment. Historically, the Wilson cloud chamber was used as an indirect detection method; this cheap and widely available method is widely disregarded in the scientific community as it requires careful manual tracking which can only be detected the instant particles pass through the chamber. Substituting the manual work required for tracking and classifying particles passing through the cloud chamber by using an artificial neural network (ResNet), detection using object detection resulted in a mean average precision of ≥89%.
+> Galactic cosmic rays are a mixture of high-energy photons and subatomic particles formed by supernova explosions and other cosmic events. As cosmic rays enter Earth’s atmosphere, they interact mainly with oxygen and nitrogen molecules. This phenomenon, known as an air shower, results in secondary radiation including x-rays, protons (p), alpha particles (α), pions (π), muons (μ−), electrons (e−), neutrinos (ν), and neutrons (n). Currently, accurately tracking and quantifying cosmic rays is difficult; direct detection methods--including particle detectors housed in the ISS, satellites, or high-altitude balloons-- require a considerable amount of time to develop the readings. Indirect detection methods, specifically extensive air shower arrays, require large areas of land and highly specialized, expensive equipment. Historically, the Wilson cloud chamber was used as an indirect detection method; this cheap and widely available method is widely disregarded in the scientific community as it requires careful manual tracking which can only be detected the instant particles pass through the chamber. Substituting the manual work required for tracking and classifying particles passing through the cloud chamber by using an artificial neural network (ResNet), detection using object detection resulted in a mean average precision of ≥89%.
+> 
+>  _Malis, Jake. "Using convolutional neural networks to classify and localize ionized particles from cosmic rays"_
 
+[Read Full Paper](https://github.com/JakeMalis/CloudChamber/blob/main/cosmic%20rays%2C%20cnns%2C%20cloud%20chamber.pdf)
 
+<details> <summary>Appendix</summary>
+ 
 ## Information
 - https://scoollab.web.cern.ch/bubble-chamber-pictures-classroom
 - https://www.classe.cornell.edu/rsrc/Home/Outreach/LessonPlans/cloudchamber.pdf
@@ -23,3 +28,4 @@ Galactic cosmic rays are a mixture of high-energy photons and subatomic particle
   - Page 5 has classes and examples
 - https://indico.cern.ch/event/508576/contributions/2322575/attachments/1360032/2057853/SCoolLAB_CloudChamber_DIYManual_2016_v2.pdf
   - See page 9 for training data information
+<details>
