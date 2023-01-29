@@ -28,4 +28,3 @@
   - Page 5 has classes and examples
 - https://indico.cern.ch/event/508576/contributions/2322575/attachments/1360032/2057853/SCoolLAB_CloudChamber_DIYManual_2016_v2.pdf
   - See page 9 for training data information
-<details>
